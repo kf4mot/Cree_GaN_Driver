@@ -12,7 +12,7 @@ x
 
 [Attenuator Calc](https://www.pasternack.com/t-calculator-pi-attn.aspx)
 
-[Schematic](https://github.com/kf4mot/10mhz_distributor/blob/master/hardware/10mhz_distributor_r1.pdf)
+[Schematic](https://github.com/kf4mot/Cree_GaN_Driver/blob/master/hardware/Cree_GaN_Driver.pdf)
 
 [Licensed under CERN-OHL-S V2. Julian White, 2020](https://www.ohwr.org/project/cernohl/wikis/home)
 
