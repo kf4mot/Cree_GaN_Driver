@@ -8,8 +8,8 @@ Power consumption is about 130 mA @12V.
 
 **Notes worth reading**
 
-1. Schematic and BOM show The Qorvo TQP369182 as the MMIC. TQP369180 was actually used on the first board. The extra gain of the 182 seems unnecessary when driven with a 5V square wave and it may cause oscillation based on past experience. Bias resistors remain at 91Ω. Upgrade at your own risk and let me know how it goes if you try it or any other MMIC.
-1. P
+1. S
+1.
    
 Attenuator table
 Attn. |R2 | R1, R3
