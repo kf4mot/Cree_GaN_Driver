@@ -5,7 +5,7 @@ x
 
 **Notes worth reading**
 
-1. If operating at 12 Volts or less then R10 should be decreased to 1KΩ.
+1. If operating at 14 Volts or less then R10 should be decreased to 1KΩ.
 1. C8 value can change per installation, or is optional. 
 1. 
    
