@@ -1,7 +1,6 @@
 # Cree GaN Driver
 A general purpose GaN bias board based on [Cree APPNOTE-011 Rev. B](https://github.com/kf4mot/Cree_GaN_Driver/blob/master/docs/gan_hemt_biasing_circuit_with_temperature_compensation.pdf)
 
-x
 
 **Notes worth reading**
 
@@ -9,8 +8,6 @@ x
 1. C8 value can change per installation, or is optional. 
 1. 
    
-
-[Attenuator Calc](https://www.pasternack.com/t-calculator-pi-attn.aspx)
 
 [Schematic](https://github.com/kf4mot/Cree_GaN_Driver/blob/master/hardware/Cree_GaN_Driver.pdf)
 
