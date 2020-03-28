@@ -25,9 +25,3 @@ Attn. |R2 | R1, R3
 [Licensed under CERN-OHL-S V2. Julian White, 2020](https://www.ohwr.org/project/cernohl/wikis/home)
 
 ![Complete](https://github.com/kf4mot/10mhz_distributor/blob/master/images/finished-gpsdo.jpg "Complete")
-
-![BoardTop](https://github.com/kf4mot/10mhz_distributor/blob/master/images/board-assy-top.jpg "Board Top")
-
-![BoardTop 3D](https://github.com/kf4mot/10mhz_distributor/blob/master/images/10mhz_distributor-3d-view.jpg "Board Top 3D")
-
-![](https://github.com/kf4mot/10mhz_distributor/blob/master/images/scope-in-out-10mhz.jpg "Input vs. Output")
