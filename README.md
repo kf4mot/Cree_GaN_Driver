@@ -5,15 +5,10 @@ x
 
 **Notes worth reading**
 
-1. S
-1.
+1. If operating at 12 Volts or less then R10 should be decreased to 1KΩ.
+1. C8 value can change per installation, or is optional. 
+1. 
    
-Attenuator table
-Attn. |R2 | R1, R3
------------- | ------------- | ---------
-3 dB| 17.8Ω | 294Ω
-6 dB| 37.4Ω | 150Ω
-10 dB | 71.5Ω | 95.3Ω
 
 [Attenuator Calc](https://www.pasternack.com/t-calculator-pi-attn.aspx)
 
