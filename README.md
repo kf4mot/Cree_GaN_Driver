@@ -1,5 +1,5 @@
 # Cree GaN Driver
-A general purpose GaN bias board based on [Cree APPNOTE-011 Rev. B](https://github.com/kf4mot/Cree_GaN_Driver/blob/master/docs/gan_hemt_biasing_circuit_with_temperature_compensation.pdf)
+A general purpose GaN gate driver board based on [Cree APPNOTE-011 Rev. B](https://github.com/kf4mot/Cree_GaN_Driver/blob/master/docs/gan_hemt_biasing_circuit_with_temperature_compensation.pdf)
 
 **Incomplete. Tested with DC load for function and power sequencing only.**
 
