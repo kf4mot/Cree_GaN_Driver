@@ -1,4 +1,4 @@
-# 10mhz_distributor
+# Cree_GaN_Driver
 A 10 MHz 3 channel distribution amplifier and low pass filter designed to integrate into a BG7TBL GPSDO. A 5th. order LPF on both the input and outputs allows it to be driven with either sine or square waves and produce a sine output of around 12 dBm into a 50Ω load.
 Power consumption is about 130 mA @12V.
 
