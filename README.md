@@ -16,4 +16,4 @@ A general purpose GaN bias board based on [Cree APPNOTE-011 Rev. B](https://gith
 
 [Licensed under CERN-OHL-S V2. Julian White, 2020](https://www.ohwr.org/project/cernohl/wikis/home)
 
-![Complete](https://github.com/kf4mot/10mhz_distributor/blob/master/images/finished-gpsdo.jpg "Complete")
+![First!](https://github.com/kf4mot/Cree_GaN_Driver/blob/master/images/first-board.jpg "First Board")
