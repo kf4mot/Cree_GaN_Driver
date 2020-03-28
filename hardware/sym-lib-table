@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Cree_GaN_Driver-rescue)(type Legacy)(uri ${KIPRJMOD}/Cree_GaN_Driver-rescue.lib)(options "")(descr ""))
+)
