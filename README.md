@@ -8,7 +8,7 @@ A general purpose GaN bias board based on [Cree APPNOTE-011 Rev. B](https://gith
 1. If operating at 14 Volts or less then R10 should be decreased from 4.7KΩ to 1KΩ.
 1. C8 value can change per installation, or is optional. 
 1. Infineon SPD15P10PL G can be used as a alternate mosfet. **Untested**
-1. The series resistance that is R11, R13, and RV1 is there for hackability. Allowing for GaN's with differing gate voltage requirements and to have the ability to use fixed resistors preventing voltage shift.
+1. The series resistance that is R11, R13, and RV1 is there for hackability. Allowing for GaN's with differing gate voltage requirements and to have the ability to use fixed resistors for preventing voltage shift.
 
    
 
