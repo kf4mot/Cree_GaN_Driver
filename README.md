@@ -16,4 +16,8 @@ A general purpose GaN gate driver board based on [Cree APPNOTE-011 Rev. B](https
 
 [Licensed under CERN-OHL-S V2. Julian White, 2020](https://www.ohwr.org/project/cernohl/wikis/home)
 
-![First!](https://github.com/kf4mot/Cree_GaN_Driver/blob/master/images/first-board.jpg "First Board")
+![First!](https://github.com/kf4mot/Cree_GaN_Driver/blob/master/images/IMG_20200329_075126953.jpg "First Board")
+
+![First!](https://github.com/kf4mot/Cree_GaN_Driver/blob/master/images/gan-bias-pwr-up-clean.jpg "Normal Power Up")
+
+![First!](https://github.com/kf4mot/Cree_GaN_Driver/blob/master/images/gan-bias-dirty.jpg "Power Fail at Power Up")
