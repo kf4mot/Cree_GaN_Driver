@@ -19,6 +19,8 @@ Provides about 2 ms of delay after power is good before switching on the mosfet.
 
 ![First!](https://github.com/kf4mot/Cree_GaN_Driver/blob/master/images/IMG_20200329_075126953.jpg "First Board")
 
+Ch.1 is drain. Ch.2 is gate.
+
 ![First!](https://github.com/kf4mot/Cree_GaN_Driver/blob/master/images/gan-bias-pwr-up-clean.jpg "Normal Power Up")
 
 ![First!](https://github.com/kf4mot/Cree_GaN_Driver/blob/master/images/gan-bias-dirty.jpg "Power Fail at Power Up")
