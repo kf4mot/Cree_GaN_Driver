@@ -4,7 +4,7 @@ Provides about 2 ms of delay after power is good before switching on the mosfet.
 
 **Incomplete. Tested with DC load for function and power sequencing only.**
 
-**Notes worth reading**
+**Things worth knowing**
 
 1. If operating at 14 Volts or less then R10 should be decreased from 4.7KΩ to 1KΩ.
 1. C8 value can change per installation, or is optional. A though hole electrolytic soldered to the adjacent power pads is also a convenient option for bulk capacitance.
