@@ -1,4 +1,4 @@
-# Cree GaN Driver
+# Cree GaN Gate Driver and Power Sequencer.
 A general purpose GaN gate driver board based on [Cree APPNOTE-011 Rev. B](https://github.com/kf4mot/Cree_GaN_Driver/blob/master/docs/gan_hemt_biasing_circuit_with_temperature_compensation.pdf).
 Provides about 2 ms of delay after power is good before switching on the mosfet.
 
